@@ -6,10 +6,10 @@ authors = ["alfatecnologia <lexander.alfabiotec@gmail.com>"]
 description = "A simple Rust math library with basic arithmetic operations"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/lexanderalfabiotec-cyber/math_lib_rust_alfa"
-documentation = "https://github.com/lexanderalfabiotec-cyber/math_lib_rust_alfa/blob/main/README.md"
+documentation = "https://docs.rs/math_lib_rust_alfa"
 homepage = "https://github.com/lexanderalfabiotec-cyber/math_lib_rust_alfa"
 keywords = ["math", "arithmetic", "operations", "library"]
-categories = ["algorithms", "development-tools::procedural-macros"]
+categories = ["algorithms", "mathematics"]
 readme = "README.md"
 
 [dependencies]
